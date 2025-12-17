@@ -1,0 +1,6 @@
+streamlit
+finance-datareader
+pandas
+yfinance
+numpy
+ta-lib-binary
